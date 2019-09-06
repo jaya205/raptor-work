@@ -1,0 +1,3 @@
+writing data into file
+Here we are appending data into file
+0.7299

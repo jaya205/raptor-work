@@ -1,0 +1,6 @@
+Hello hi,hello python
+Output was already redirected to: File read.txt
+hii
+jaya
+python
+0.9005
